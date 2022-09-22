@@ -45,7 +45,7 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={nuxt2} alt="Image" />
-                                <h5>Vue.js / Nuxt2.js</h5>
+                                <h5>Vue.js / Nuxt.js</h5>
                             </div>
                             <div className="item">
                                 <img src={nodejs} alt="Image" />
